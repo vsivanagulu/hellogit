@@ -25,3 +25,5 @@ Git tutorial in Windows Readme file
 	git remote -v
 	git remote add origin  https://github.com/vsivanagulu/hellogit.git
 	git push -u origin master
+	git tag tag-version		# reate new tag
+	git tag
