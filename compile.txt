@@ -1,0 +1,4 @@
+how to compile hello.c withh gcc
+	vim hello.c
+	gcc hello.c -o hello
+
